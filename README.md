@@ -1,2 +1,1 @@
-# simple-calculator
-#simple calculator
+my calculator can total,subtraction,divide,display decimal numbers,......
